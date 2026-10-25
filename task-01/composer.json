@@ -1,0 +1,8 @@
+{
+  "name": "test/taks-01",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}
