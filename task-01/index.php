@@ -9,8 +9,6 @@ use src\ConsoleReportRenderer;
 use src\Logger;
 use src\OrderProcessor;
 
-
-
 $ordersPath = $argv[1] ?? __DIR__ . '/data/orders.json';
 $catalogPath = $argv[2] ?? __DIR__ . '/data/nomenclature_1c.csv';
 
